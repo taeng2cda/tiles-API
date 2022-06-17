@@ -11,39 +11,13 @@
 </h1>
  바디바디<br>
   바디바디<br>
- <a href="${pageContext.request.contextPath}/main">main</a>
+ <a href="${pageContext.request.contextPath}/main">main</a> <br>
+ <a href="${pageContext.request.contextPath}/naver">Test</a>
   바디바디<br>
    바디바디<br>
     바디바디<br>
-     바디바디<br>
-      바디바디<br>
-       바디바디<br>
-        바디바디<br>
-         바디바디<br>
-          바디바디<br>
-           바디바디<br>
-            바디바디<br>
-             바디바디<br>
-              바디바디<br>
-               바디바디<br>
-                바디바디<br>
-                 바디바디<br>
-                  바디바디<br>
-                   바디바디<br>
-                    바디바디<br>
-                     바디바디<br>
-                      바디바디<br>
-                       바디바디<br>
-                        바디바디<br>
-                         바디바디<br>
-                          바디바디<br>
-                           바디바디<br>
-                            바디바디<br>
-                             바디바디<br>
-                              바디바디<br>
-                               바디바디<br>
-                                바디바디<br>
-                                 바디바디<br>
+  
+  
                                  
 </body>
 </html>

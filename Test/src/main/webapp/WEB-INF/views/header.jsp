@@ -11,10 +11,10 @@
 
 <header>
         <div id="logo">
-            <h1>Board ProJect</h1>
+           <a href="${pageContext.request.contextPath}/"> <h1>Board ProJect</h1> </a>
         </div>
         <div id="top_menu">
-            <a href="#">Home</a>
+            <a href="${pageContext.request.contextPath}/">Home</a>
             <a href="#">회원가입</a>
             <a href="#">로그인</a>
             <a href="#">로그아웃</a>
